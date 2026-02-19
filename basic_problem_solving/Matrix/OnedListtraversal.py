@@ -1,0 +1,12 @@
+a=[[2,4], [1,0]]
+print(a)
+print(a[0][0]*3)
+print(a[0][1]*3)
+print(a[1][0]*3)
+print(a[1][1]*3)
+
+n=[1,2,3,4,5]
+print(n)
+for i in range(len(n)):
+    print(n[i])
+print(len(n))
